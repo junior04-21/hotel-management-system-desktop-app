@@ -1,0 +1,17 @@
+C:\Users\denni\Downloads\HM Project\HM Project\bin\Debug\Database1.mdf
+C:\Users\denni\Downloads\HM Project\HM Project\bin\Debug\Database1_log.ldf
+C:\Users\denni\Downloads\HM Project\HM Project\bin\Debug\HM Project.exe.config
+C:\Users\denni\Downloads\HM Project\HM Project\bin\Debug\HM Project.exe
+C:\Users\denni\Downloads\HM Project\HM Project\bin\Debug\HM Project.pdb
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM Project.csproj.AssemblyReference.cache
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM_Project.welcomeForm.resources
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM_Project.loginForm.resources
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM_Project.registerationForm.resources
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM_Project.homeForm.resources
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM_Project.resetPasswordForm.resources
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM_Project.Properties.Resources.resources
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM Project.csproj.GenerateResource.cache
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM Project.csproj.CoreCompileInputs.cache
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM Project.exe
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM Project.pdb
+C:\Users\denni\Downloads\HM Project\HM Project\obj\Debug\HM Project.exe.config
